@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @since-dec91
+- 👋 Hi, I’m  Awasthi @since-dec91
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on data analytics projects
