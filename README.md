@@ -1,6 +1,7 @@
 - 👋 Hello fellow data enthusiasts, myself Shubhika @since-dec91
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R and Python
+- Pretty good at SQL already
 - 💞️ I’m looking to collaborate on data analytics projects
 
 
